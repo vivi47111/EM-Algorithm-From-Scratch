@@ -13,4 +13,4 @@ This project focuses on the fundamental implementation of the Expectation-Maximi
 * **Algorithmic Transparency**: Provides a clear view of the latent variable estimation process in generative modeling.
 
 ## 4. Full Report
-[Click here to view (./EM_Algorithm_Generative_Modeling_From_Scratch.pdf)
+[Click here to view] (./EM_Algorithm_Generative_Modeling_From_Scratch.pdf)
